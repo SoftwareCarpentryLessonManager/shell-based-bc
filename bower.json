@@ -9,6 +9,7 @@
   ],
   "license": "CC BY 3.0 Unported",
   "dependencies": {
+    "template": "SoftwareCarpentryLessonManager/software-carpentry-template",
     "novice-shell-intro": "SoftwareCarpentryLessonManager/novice-shell-intro",
     "novice-shell-filedir": "SoftwareCarpentryLessonManager/novice-shell-filedir",
     "novice-shell-create": "SoftwareCarpentryLessonManager/novice-shell-create",
