@@ -5,6 +5,7 @@ This is a prototype of using bower as a lesson packaging manager.
 ~~~
 $ git clone https://github.com/SoftwareCarpentryLessonManager/shell-based-bc.git
 $ cd shell-based-bc
+$ bower update
 $ jekyll build
 ~~~
 
