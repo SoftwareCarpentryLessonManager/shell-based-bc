@@ -7,5 +7,13 @@
     "shell",
     "git"
   ],
-  "license": "CC BY 3.0 Unported"
+  "license": "CC BY 3.0 Unported",
+  "dependencies": {
+    "novice-shell-intro": "SoftwareCarpentryLessonManager/novice-shell-intro",
+    "novice-shell-filedir": "SoftwareCarpentryLessonManager/novice-shell-filedir",
+    "novice-shell-create": "SoftwareCarpentryLessonManager/novice-shell-create",
+    "novice-git-intro": "SoftwareCarpentryLessonManager/novice-git-intro",
+    "novice-git-backup": "SoftwareCarpentryLessonManager/novice-git-backup",
+    "novice-git-open": "SoftwareCarpentryLessonManager/novice-git-open"
+  }
 }

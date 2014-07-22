@@ -6,3 +6,9 @@ _site
 book.md
 */*/*_files/*/*/*.text
 */*/*_files/*/*/*.html
+novice-git-backup/
+novice-git-intro/
+novice-git-open/
+novice-shell-create/
+novice-shell-filedir/
+novice-shell-intro/
