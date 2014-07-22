@@ -1,0 +1,11 @@
+{
+  "name": "shell-based-bc",
+  "version": "0.1.0",
+  "homepage": "http://software-carpentry.org/v5/",
+  "description": "Shell Based Bootcamp from Software Carpentry",
+  "keywords": [
+    "shell",
+    "git"
+  ],
+  "license": "CC BY 3.0 Unported"
+}
