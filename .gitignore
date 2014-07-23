@@ -4,6 +4,7 @@
 .ipynb_checkpoints
 _site
 book.md
+*.old/
 */*/*_files/*/*/*.text
 */*/*_files/*/*/*.html
 novice-git-backup/
