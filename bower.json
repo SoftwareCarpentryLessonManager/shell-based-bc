@@ -1,20 +1,20 @@
 {
-  "name": "shell-based-bc",
-  "version": "0.1.0",
-  "homepage": "http://software-carpentry.org/v5/",
-  "description": "Shell Based Bootcamp from Software Carpentry",
-  "keywords": [
-    "shell",
-    "git"
-  ],
-  "license": "CC BY 3.0 Unported",
   "dependencies": {
-    "template": "SoftwareCarpentryLessonManager/software-carpentry-template",
-    "novice-shell-intro": "SoftwareCarpentryLessonManager/novice-shell-intro",
-    "novice-shell-filedir": "SoftwareCarpentryLessonManager/novice-shell-filedir",
-    "novice-shell-create": "SoftwareCarpentryLessonManager/novice-shell-create",
-    "novice-git-intro": "SoftwareCarpentryLessonManager/novice-git-intro",
-    "novice-git-backup": "SoftwareCarpentryLessonManager/novice-git-backup",
-    "novice-git-open": "SoftwareCarpentryLessonManager/novice-git-open"
-  }
+    "novice-git-backup": "SoftwareCarpentryLessonManager/novice-git-backup", 
+    "novice-git-intro": "SoftwareCarpentryLessonManager/novice-git-intro", 
+    "novice-git-open": "SoftwareCarpentryLessonManager/novice-git-open", 
+    "novice-shell-create": "SoftwareCarpentryLessonManager/novice-shell-create", 
+    "novice-shell-filedir": "SoftwareCarpentryLessonManager/novice-shell-filedir", 
+    "novice-shell-intro": "SoftwareCarpentryLessonManager/novice-shell-intro", 
+    "template": "SoftwareCarpentryLessonManager/software-carpentry-template"
+  }, 
+  "description": "Shell Based Bootcamp from Software Carpentry", 
+  "homepage": "http://software-carpentry.org/v5/", 
+  "keywords": [
+    "shell", 
+    "git"
+  ], 
+  "license": "CC BY 3.0 Unported", 
+  "name": "shell-based-bc", 
+  "version": "0.1.0"
 }
